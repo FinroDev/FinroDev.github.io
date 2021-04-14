@@ -54,9 +54,14 @@
 	</changelog>
 	<links>
 		<link>
-			<name>Need Help?</name>
-			<url>https://github.com/SuperMarcus/NineAnimator</url>
-			<iconclass>fa fa-github</iconclass>
-		</link>
+            <name>ME ON TELEGRAM</name>
+            <url>https://t.me/h_3_8</url>
+            <iconclass>fa fa-telegram</iconclass>
+        </link>
+		<link>
+            <name>MY CHANNEL</name>
+            <url>https://t.me/finro_iphone</url>
+            <iconclass>fa fa-telegram</iconclass>
+        </link>
 	</links>
 </package>
