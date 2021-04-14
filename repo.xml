@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>MY TELEGRAM CHANNEL</name>
+			<url>https://t.me/finro_iphone</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+	</footerlinks>
+</repo>
