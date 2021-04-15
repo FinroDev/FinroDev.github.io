@@ -11,6 +11,6 @@ SHA256: 2108fa902aed3b26b950f25a25ee04bed3edc9433cbd67d099b9c4a94568d680
 Description: Cydia Tweak lets you Manage the iOS clipboard history
 Name: Pasithea 2 (iOS 10 to 14)
 Author: FINRO DEV
-Depiction: https://finrodev.github.io/depictions/?p=com.finrodev.pasithea2
-SileoDepiction: https://thestrugglingdoge.github.io/repo/sileodepictions/com.struggling.darkify/depiction.json
+Depiction: https://finrodev.github.io/deps/?p=com.finrodev.pasithea2
+SileoDepiction: https://finrodev.github.io/sileodepictions/com.struggling.darkify/depiction.json
 Icon: https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/TweakIcons/nineanimpic.jpg
