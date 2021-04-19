@@ -1,5 +1,5 @@
 <package>
-	<id>com.finrodev.pasithea2</id>
+	<id>io.finro.pas</id>
 	<name>Pasithea 2 (iOS 10 to 14)</name>
 	<version>2.2.6</version>
 	<compatibility>
