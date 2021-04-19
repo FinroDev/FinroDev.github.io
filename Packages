@@ -3,7 +3,7 @@ Version: 2.2.6
 Section: Tweaks
 Maintainer: FINRO DEV
 Architecture: iphoneos-arm
-Filename: ./debs/com.finro.pasithea2.deb
+Filename: ./debs/com.finrodev.pasithea2.deb
 Size: 841206
 MD5sum: 5e243a1579d098a0a0e52bbd280d12ef
 SHA1: 7fc7b9ec3d8f2a3ab073b49d4b5e24a372ef5229
