@@ -1,60 +1,25 @@
 <package>
 	<id>io.finro.pas</id>
-	<name>Pasithea 2 (iOS 10 to 14)</name>
+	<name>Darkify</name>
 	<version>2.2.6</version>
 	<compatibility>
-		<firmware>
-			<miniOS>10</miniOS>
-			<maxiOS>14.3</maxiOS>
-		</firmware>
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>Cydia Tweak lets you Manage the iOS clipboard history</shortDescription>
+	<shortDescription>Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.</shortDescription>
 	<descriptionlist>
-    <description>Cydia Tweak that makes a list of you clipboard to paste any where</description>
+		<description>Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons. There are over 130+ icons and counting!</description>
+		<description>I'm always taking icon requests! You can fill out a icon request form here: https://forms.gle/x38ZhSwcx3wreiUUA (copy and paste into safari)</description>
 	</descriptionlist>
 	<screenshots>
-	    <description>Screenshots</description>
 		<screenshot>
-			<description></description>
+			<description>Showcase</description>
 			<image>1.png</image>
 		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image>2.png</image>
-		</screenshot>
-    <screenshot>
-      <description></description>
-      <image>3.png</image>
-    </screenshot>
-    <screenshot>
-      <description></description>
-      <image>4.png</image>
-    </screenshot>
-    <screenshot>
-      <description></description>
-      <image>5.png</image>
-    </screenshot>
-    <screenshot>
-      <description></description>
-      <image>6.png</image>
-    </screenshot>
-    <screenshot>
-      <description><description>
-      <image>7.png</image>
-    </screenshot>
-    <screenshot>
-      <description></description>
-      <image>8.png</image>
-    </screenshot>
-	<screenshot>
-      <description></description>
-      <image>9.png</image>
-    </screenshot>
-	<screenshot>
-      <description></description>
-      <image>10.png</image>
-    </screenshot>
-  </screenshots>
+	</screenshots>
+	<changelog>
+		<change>Adds 35+ new icons(Keep suggesting!)</change>
+	</changelog>
+	<links>
+	</links>
 </package>
