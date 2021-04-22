@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: FinroDev
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/NameAP.deb
+Filename: ./debs/com.finrodev090.disguiseyourself.deb
 Size: 348160
 MD5sum: e2e786166985f1218037e1fd42f485a9
 SHA1: 8615290c5a71aa5b4d8b429e61b33d4c43748d1d
