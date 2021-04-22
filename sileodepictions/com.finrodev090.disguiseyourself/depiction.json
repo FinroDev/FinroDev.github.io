@@ -1,0 +1,121 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#c0392b",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot 1",
+							"url": "https://finrodev.github.io/icons/nap1.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nap1.png"
+						},
+						{
+							"accessibilityText": "Screenshot 2",
+							"url": "https://finrodev.github.io/icons/nap2.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nap2.png"
+						},
+						{
+							"accessibilityText": "Screenshot 3",
+							"url": "https://finrodev.github.io/icons/nap3.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nap3.png"
+						},
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+						
+						
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Change Your Apple Store Name In Your Settings Device."
+				},
+				{
+					"title": "MY CHANNEL",
+					"action": "https://t.me/finro_iphone",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "22/04/21",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 11.0 to 14.4.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "FinroDev",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Me on Telegram",
+					"action": "https://t.me/H_3_8",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22/04/21</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

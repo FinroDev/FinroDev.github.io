@@ -1,16 +1,16 @@
-Package: io.finro.pas
-Version: 2.2.6
+Package: com.finrodev090.disguiseyourself
+Version: 1.0
 Section: Tweaks
-Maintainer: FINRO DEV
+Maintainer: FinroDev
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/io.finro.pas.deb
-Size: 841206
-MD5sum: 5e243a1579d098a0a0e52bbd280d12ef
-SHA1: 7fc7b9ec3d8f2a3ab073b49d4b5e24a372ef5229
-SHA256: 2108fa902aed3b26b950f25a25ee04bed3edc9433cbd67d099b9c4a94568d680
-Description: Cydia Tweak lets you Manage the iOS clipboard history
-Name: Pasithea 2 (iOS 10 to 14)
-Author: FINRO DEV
-Depiction: https://finrodev.github.io/depictions/?p=io.finro.pas
-SileoDepiction: https://finrodev.github.io/sileodepictions/io.finro.pas/depiction.json
-Icon: https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/TweakIcons/nineanimpic.jpg
+Filename: ./debs/com.finrodev090.disguiseyourself.deb
+Size: 286720
+MD5sum: e5c73d5b4ecb9904183b9797b5128359
+SHA1: e2f7b2b0138b669ba15936f5ac5987987d1c6385
+SHA256: f244abec74295b5ad84b6774ad4143406e43c960dc737aa00db6bb80f35aad8c
+Description: Change Your Apple Store Name In Your Settings Device.
+Name: Name AP
+Author: FinroDev
+Depiction: https://finrodev.github.io/depictions/?p=com.finrodev090.disguiseyourself
+SileoDepiction: https://finrodev.github.io/sileodepictions/com.finrodev090.disguiseyourself/depiction.json
