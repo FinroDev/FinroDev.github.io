@@ -5,10 +5,10 @@ Maintainer: FinroDev
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debss/io.finro.pas.deb
-Size: 348160
-MD5sum: e2e786166985f1218037e1fd42f485a9
-SHA1: 8615290c5a71aa5b4d8b429e61b33d4c43748d1d
-SHA256: 5093b1d0b56fa41d843bea0a03768732f9d07d600928eff526430c1f87d3f0b2
+Size: 841206
+MD5sum: 5e243a1579d098a0a0e52bbd280d12ef
+SHA1: 7fc7b9ec3d8f2a3ab073b49d4b5e24a372ef5229
+SHA256: 2108fa902aed3b26b950f25a25ee04bed3edc9433cbd67d099b9c4a94568d680
 Description: Change Your Apple Store Name In Your Settings Device.
 Name: Name AP
 Author: FinroDev
