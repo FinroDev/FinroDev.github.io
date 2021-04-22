@@ -1,7 +1,7 @@
 <package>
-	<id>com.finrodev090.disguiseyourself</id>
+	<id>com.finro.nameap</id>
 	<name>Name AP</name>
-	<version>1.0</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>

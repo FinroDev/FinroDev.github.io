@@ -1,16 +1,16 @@
-Package: com.finrodev090.disguiseyourself
-Version: 1.0
+Package: com.finro.nameap
+Version: 1.0.0
 Section: Tweaks
 Maintainer: FinroDev
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debss/io.finro.pas.deb
+Filename: ./debs/com.finro.nameap.deb
 Size: 841206
-MD5sum: 5e243a1579d098a0a0e52bbd280d12ef
-SHA1: 7fc7b9ec3d8f2a3ab073b49d4b5e24a372ef5229
-SHA256: 2108fa902aed3b26b950f25a25ee04bed3edc9433cbd67d099b9c4a94568d680
+MD5sum: 562d6beca7fcbeddda59f7a890979fc3
+SHA1: f5d495b2a9a03d36717ec73c789ddc7b0b16a3f4
+SHA256: 7b5e2c19cac4a272726b62030c09302cd0dbafd866e8f2682bae17f9ab949cd1
 Description: Change Your Apple Store Name In Your Settings Device.
 Name: Name AP
 Author: FinroDev
-Depiction: https://finrodev.github.io/depictions/?p=com.finrodev090.disguiseyourself
-SileoDepiction: https://finrodev.github.io/sileodepictions/com.finrodev090.disguiseyourself/depiction.json
+Depiction: https://finrodev.github.io/depictions/?p=com.finro.nameap
+SileoDepiction: https://finrodev.github.io/sileodepictions/com.finro.nameap/depiction.json
