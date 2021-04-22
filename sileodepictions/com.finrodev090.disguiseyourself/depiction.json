@@ -42,11 +42,6 @@
 					"markdown": "Change Your Apple Store Name In Your Settings Device."
 				},
 				{
-					"title": "MY CHANNEL",
-					"action": "https://t.me/finro_iphone",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"class": "DepictionSeparatorView"
 				},
 				{
@@ -79,7 +74,12 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Me on Telegram",
+					"title": "MY CHANNEL",
+					"action": "https://t.me/finro_iphone",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "ME ON TELEGRAM",
 					"action": "https://t.me/H_3_8",
 					"class": "DepictionTableButtonView"
 				},
