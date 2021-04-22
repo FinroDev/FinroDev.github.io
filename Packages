@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: FinroDev
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debss/com.finro.nameap.deb
+Filename: ./debs/com.finro.nameap.deb
 Size: 348160
 MD5sum: 20bfe08a4a3e48e3b03721dc6baf72b8
 SHA1: a2aebf44408a45bf60da41347e23f18d9d83efbc
