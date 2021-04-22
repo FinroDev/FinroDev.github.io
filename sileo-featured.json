@@ -1,1 +1,13 @@
-/
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://finrodev.github.io/icons/NameAPHeader.jpg",
+        "title": "Name AP",
+        "package": "com.finrodev090.disguiseyourself",
+        "hideShadow": false
+    }
+  ]
+}
