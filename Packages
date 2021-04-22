@@ -5,10 +5,10 @@ Maintainer: FinroDev
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/NameAP.deb
-Size: 286720
-MD5sum: e5c73d5b4ecb9904183b9797b5128359
-SHA1: e2f7b2b0138b669ba15936f5ac5987987d1c6385
-SHA256: f244abec74295b5ad84b6774ad4143406e43c960dc737aa00db6bb80f35aad8c
+Size: 348160
+MD5sum: e2e786166985f1218037e1fd42f485a9
+SHA1: 8615290c5a71aa5b4d8b429e61b33d4c43748d1d
+SHA256: 5093b1d0b56fa41d843bea0a03768732f9d07d600928eff526430c1f87d3f0b2
 Description: Change Your Apple Store Name In Your Settings Device.
 Name: Name AP
 Author: FinroDev
