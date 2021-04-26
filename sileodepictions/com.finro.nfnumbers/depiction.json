@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "",
+	"headerImage": "https://finrodev.github.io/icons/NFNHeader.png",
 	"tintColor": "#c0392b",
 	"tabs": [
 		{
@@ -89,18 +89,18 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
+					"title": "ME ON TELEGRAM",
+					"action": "https://t.me/H_3_8",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "MY INSTAGRAM",
 					"action": "https://instagram.com/k3vno?igshid=49p1ktzm0mus",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "ME YOUTUBE",
+					"title": "MY YOUTUBE",
 					"action": "https://youtube.com/channel/UCXs35vGaYgUU3ZNGc_lTavQ",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "ME ON TELEGRAM",
-					"action": "https://t.me/H_3_8",
 					"class": "DepictionTableButtonView"
 				},
 				{
