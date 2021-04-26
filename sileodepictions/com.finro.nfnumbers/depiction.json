@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://finrodev.github.io/icons/NameAPHeader.jpg",
+	"headerImage": "",
 	"tintColor": "#c0392b",
 	"tabs": [
 		{
@@ -12,18 +12,28 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Screenshot 1",
-							"url": "https://finrodev.github.io/icons/nap1.png",
-							"fullSizeURL": "https://finrodev.github.io/icons/nap1.png"
+							"url": "https://finrodev.github.io/icons/nfn1.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nfn1.png"
 						},
 						{
 							"accessibilityText": "Screenshot 2",
-							"url": "https://finrodev.github.io/icons/nap2.png",
-							"fullSizeURL": "https://finrodev.github.io/icons/nap2.png"
+							"url": "https://finrodev.github.io/icons/nfn2.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nfn2.png"
 						},
 						{
 							"accessibilityText": "Screenshot 3",
-							"url": "https://finrodev.github.io/icons/nap3.png",
-							"fullSizeURL": "https://finrodev.github.io/icons/nap3.png"
+							"url": "https://finrodev.github.io/icons/nfn3.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nfn3.png"
+						},
+						{
+							"accessibilityText": "Screenshot 3",
+							"url": "https://finrodev.github.io/icons/nfn4.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nfn4.png"
+						},
+						{
+							"accessibilityText": "Screenshot 3",
+							"url": "https://finrodev.github.io/icons/nfn5.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/nfn5.png"
 						},
 					],
 					"ipad": {
@@ -39,7 +49,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Change Your Apple Store Name In Your Settings Device."
+					"markdown": "It sets background for your notifications."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -55,12 +65,12 @@
 				},
 				{
 					"title": "Released",
-					"text": "22/04/21",
+					"text": "26/04/21",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 11.0 to 14.4.2",
+					"text": "iOS 10.0 to 14.4.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -79,11 +89,6 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "ME ON TELEGRAM",
-					"action": "https://t.me/H_3_8",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"title": "MY INSTAGRAM",
 					"action": "https://instagram.com/k3vno?igshid=49p1ktzm0mus",
 					"class": "DepictionTableButtonView"
@@ -91,6 +96,11 @@
 				{
 					"title": "ME YOUTUBE",
 					"action": "https://youtube.com/channel/UCXs35vGaYgUU3ZNGc_lTavQ",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "ME ON TELEGRAM",
+					"action": "https://t.me/H_3_8",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -114,12 +124,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial Release.",
+					"markdown": "\t\n\u2021 Initial Release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22/04/21</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 26/04/21</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

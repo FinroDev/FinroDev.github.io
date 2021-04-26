@@ -10,5 +10,15 @@
             <url>https://t.me/finro_iphone</url>
             <iconclass>fa fa-telegram</iconclass>
         </link>
+		<link>
+            <name>MY INSTAGRAM</name>
+            <url>https://instagram.com/k3vno?igshid=49p1ktzm0mus</url>
+            <iconclass>fa fa-instagram</iconclass>
+        </link>
+		<link>
+            <name>MY YOUTUBE</name>
+            <url>https://youtube.com/channel/UCXs35vGaYgUU3ZNGc_lTavQ</url>
+            <iconclass>fa fa-youtube</iconclass>
+        </link>
     </footerlinks>
 </repo>

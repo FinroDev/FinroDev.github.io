@@ -16,3 +16,22 @@ Name: Name AP
 Author: FinroDev
 Depiction: https://finrodev.github.io/depictions/?p=com.finro.nameap
 SileoDepiction: https://finrodev.github.io/sileodepictions/com.finro.nameap/depiction.json
+
+Package: com.finro.nfnumbers
+Version: 1.0
+Section: Tweaks
+Maintainer: FinroDev
+Depends: mobilesubstrate, preferenceloader (>= 2.2.4), applist (>= 1.5.16~beta1), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.finro.nfnumbers.deb
+Size: 348120
+MD5sum: 676e917c8eb3c04d51350ba4e0e3e7eb
+SHA1: 7560217a1e6628e8babe3200d73ad8584f8a1a8e
+SHA256: 2c0f0ee6d71a079dd49b09b0b8ff0afe77a0af19c79fb84086a9ae45e36fa00f
+SHA384: 3f62508dd17fd411a22a6cddaf23208a39db978dfd9788c4ede1279309cec9f0aef041b2f66b259b12b8581e74b81dbd
+SHA512: 901dd86baaf94096a2ddf343f81509680ce0b0ed843f7f959492965ed1d3e5fcc7b9f1f90b812c56cbe6015f30092441b465fb48e064c8132a2d37f89d1d1a26
+Description: It sets background for your notifications.
+Name: NF Numbers
+Author: FinroDev
+Depiction: https://finrodev.github.io/depictions/?p=com.finro.nfnumbers
+SileoDepiction: https://finrodev.github.io/sileodepictions/com.finro.nfnumbers/depiction.json

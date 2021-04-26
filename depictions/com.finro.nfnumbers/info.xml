@@ -1,0 +1,43 @@
+<package>
+	<id>com.finro.nfnumbers</id>
+	<name>NF Numbers</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>It sets a background for your notifications.</shortDescription>
+	<descriptionlist>
+		<description>It sets a background for your notifications.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>2.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>3.png</image>
+		</screenshot>	
+		<screenshot>
+			<description></description>
+			<image>4.png</image>
+		</screenshot>
+        <screenshot>
+			<description></description>
+			<image>5.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+	</links>
+</package>
