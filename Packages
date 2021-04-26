@@ -24,7 +24,7 @@ Maintainer: FinroDev
 Depends: mobilesubstrate, preferenceloader (>= 2.2.4), applist (>= 1.5.16~beta1), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
 Architecture: iphoneos-arm
 Filename: ./debs/com.finro.nfnumbers.deb
-Size: 348120
+Size: 391422
 MD5sum: 676e917c8eb3c04d51350ba4e0e3e7eb
 SHA1: 7560217a1e6628e8babe3200d73ad8584f8a1a8e
 SHA256: 2c0f0ee6d71a079dd49b09b0b8ff0afe77a0af19c79fb84086a9ae45e36fa00f
