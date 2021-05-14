@@ -1,0 +1,131 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://finrodev.github.io/icons/rncheader.png",
+	"tintColor": "#c0392b",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot 1",
+							"url": "https://finrodev.github.io/icons/rnc1.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/rnc1.png"
+						},
+						{
+							"accessibilityText": "Screenshot 2",
+							"url": "https://finrodev.github.io/icons/rnc2.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/rnc2.png"
+						},
+						{
+							"accessibilityText": "Screenshot 3",
+							"url": "https://finrodev.github.io/icons/rnc3.png",
+							"fullSizeURL": "https://finrodev.github.io/icons/rnc3.png"
+						},
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+						
+						
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Fast Respring the device by pressing volume up/down buttons | عمل تشغيل سريع للجهاز عبر الضغط على ازرار الصوت."
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "14/05/21",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 11.0 to 14.5.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "FinroDev",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "MY CHANNEL",
+					"action": "https://t.me/finro_iphone",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "ME ON TELEGRAM",
+					"action": "https://t.me/H_3_8",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "MY INSTAGRAM",
+					"action": "https://instagram.com/k3vno?igshid=49p1ktzm0mus",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "MY YOUTUBE",
+					"action": "https://youtube.com/channel/UCXs35vGaYgUU3ZNGc_lTavQ",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2021 Initial Release.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14/05/21</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

@@ -35,3 +35,22 @@ Name: NF Numbers
 Author: FinroDev
 Depiction: https://finrodev.github.io/depictions/?p=com.finro.nfnumbers
 SileoDepiction: https://finrodev.github.io/sileodepictions/com.finro.nfnumbers/depiction.json
+
+Package: com.finro.respringnc
+Version: 1.0
+Section: Tweaks
+Maintainer: FinroDev
+Depends: mobilesubstrate, preferenceloader (>= 2.2.4), applist (>= 1.5.16~beta1), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.finro.respringnc.deb
+Size: 312184
+MD5sum: e5b53098e374595c96417352cc3def80
+SHA1: b14ddb6cf5c07d7adc54994bd79ee1eb2ce0835e
+SHA256: c448ef913200dad652200728742c1349931b95afb67142067ce25397090b534b
+SHA384: a7bd20eab13d49c00091bcb6eaa4d58de03f1a61c26d456439f2ff20c81e69310b62f39daf1d8a868a308309c19442ec
+SHA512: 8fbc6580faa3072e2ecc2d1074b352fd947f0b59941a99228c1795e1082cb53308fcb82b736abb5462764edadda453ba4c761cd0e1246519dbe8a2c7954a898a
+Description: Fast Respring the device by pressing volume up/down buttons | عمل تشغيل سريع للجهاز عبر الضغط على ازرار الصوت.
+Name: Respring Nice
+Author: FinroDev
+Depiction: https://finrodev.github.io/depictions/?p=com.finro.respringnc
+SileoDepiction: https://finrodev.github.io/sileodepictions/com.finro.respringnc/depiction.json
