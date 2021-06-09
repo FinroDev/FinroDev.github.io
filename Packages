@@ -62,12 +62,12 @@ Maintainer: FinroDev
 Depends: mobilesubstrate, preferenceloader (>= 2.2.4), applist (>= 1.5.16~beta1), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
 Architecture: iphoneos-arm
 Filename: ./debs/com.batteryworld.finro.deb
-Size: 320850 
-MD5sum: 3dd522f2d6350e5b309df6389746066b
-SHA1: 175279a9b4d2deef259e38d07dd2eb546ef4cbb8
-SHA256: b895c48939cadd2579a570efd1a508f0e9da84b7702e75c36c2c7a5c8cffe7d1
-SHA384: 315d46c2a83b6a3615fb16afc192eb73e20bfc38d26d8915bf19909e1384b539d48d117f6067fcec14487c47eb7b999b
-SHA512: 45970baef27b23a2042aa057f2fc4aa78d887058508efd50003e76b1ca1349c6991f4302c846bc6fae327e9a2abdc09abed2c7e8b402775018a412e663659f14
+Size: 316624
+MD5sum: 095e2c1d0e43e578cc5493a5562c3797
+SHA1: 105d8e2780a0f365e171ecf8cfe40cf969210494
+SHA256: 7071fdf189f4ed83225d2f9174047270fe85895daa1cf2be27f33f046b9f9a08
+SHA384: af5afe2bb961dcce75ef67adbc1a4057edd41081ede9c67be5323bdfa00f848ddc720b9f418e3d102b38b19a97911de4
+SHA512: e37ccbc03d1e3c04feea8126a3107a3513d59f6d2e909a5d48d31501f55dfa986033ab785a88e38f87d3252767fcc4d55e5d771b3771a21aa66e61267eb80c1e
 Description: This tool is used to maintain the health of the battery  |  للحفاظ على صحة البطارية.
 Name: Battery World
 Author: FinroDev
