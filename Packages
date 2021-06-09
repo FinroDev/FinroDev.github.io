@@ -54,3 +54,22 @@ Name: Respring Nice
 Author: FinroDev
 Depiction: https://finrodev.github.io/depictions/?p=com.finro.respringnc
 SileoDepiction: https://finrodev.github.io/sileodepictions/com.finro.respringnc/depiction.json
+
+Package: com.batteryworld.finro
+Version: 1.0
+Section: Tweaks
+Maintainer: FinroDev
+Depends: mobilesubstrate, preferenceloader (>= 2.2.4), applist (>= 1.5.16~beta1), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.batteryworld.finro.deb
+Size: 320850 
+MD5sum: 3dd522f2d6350e5b309df6389746066b
+SHA1: 175279a9b4d2deef259e38d07dd2eb546ef4cbb8
+SHA256: b895c48939cadd2579a570efd1a508f0e9da84b7702e75c36c2c7a5c8cffe7d1
+SHA384: 315d46c2a83b6a3615fb16afc192eb73e20bfc38d26d8915bf19909e1384b539d48d117f6067fcec14487c47eb7b999b
+SHA512: 45970baef27b23a2042aa057f2fc4aa78d887058508efd50003e76b1ca1349c6991f4302c846bc6fae327e9a2abdc09abed2c7e8b402775018a412e663659f14
+Description: This tool is used to maintain the health of the battery  |  للحفاظ على صحة البطارية.
+Name: Battery World
+Author: FinroDev
+Depiction: https://finrodev.github.io/depictions/?p=com.batteryworld.finro
+SileoDepiction: https://finrodev.github.io/sileodepictions/com.batteryworld.finro/depiction.json
